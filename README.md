@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence,Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/praveen37bn](https://github.com/praveen37bn)
-
-- 💬 Ask me about **Vue, Python, AI, ML**
-
 - 📫 How to reach me **praveen37bn@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-FMhuauZ4-gewixMF5mCF13JovMtTJYB/view?usp=sharing](https://drive.google.com/file/d/1-FMhuauZ4-gewixMF5mCF13JovMtTJYB/view?usp=sharing)
