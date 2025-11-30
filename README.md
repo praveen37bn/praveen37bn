@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/praveen37bn](https://github.com/praveen37bn)
 
-- 💬 Ask me about **Vue,python,java**
+- 💬 Ask me about **Vue, Python, AI, ML**
 
 - 📫 How to reach me **praveen37bn@gmail.com**
 
