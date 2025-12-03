@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **praveen37bn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-FMhuauZ4-gewixMF5mCF13JovMtTJYB/view?usp=sharing](https://drive.google.com/file/d/1-FMhuauZ4-gewixMF5mCF13JovMtTJYB/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
